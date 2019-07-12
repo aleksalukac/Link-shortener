@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Link Shortner", "Link Shortner\Link Shortner.csproj", "{BA59914B-6A06-4825-9006-665612F706FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA59914B-6A06-4825-9006-665612F706FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA59914B-6A06-4825-9006-665612F706FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA59914B-6A06-4825-9006-665612F706FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA59914B-6A06-4825-9006-665612F706FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BADE8CC4-0829-4E06-95AE-293E7716439A}
+	EndGlobalSection
+EndGlobal
